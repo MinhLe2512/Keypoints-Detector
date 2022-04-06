@@ -1,0 +1,10 @@
+﻿  BlobDetector.cpp
+D:\Downloads\TGMT\19127044_Lab03\19127044_Lab03\BlobDetector.cpp(3,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\TGMT\19127044_Lab03\19127044_Lab03\BlobDetector.cpp(3,29): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\Downloads\TGMT\19127044_Lab03\19127044_Lab03\BlobDetector.cpp(14,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\TGMT\19127044_Lab03\19127044_Lab03\BlobDetector.cpp(16,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\TGMT\19127044_Lab03\19127044_Lab03\BlobDetector.cpp(35,73): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Downloads\TGMT\19127044_Lab03\19127044_Lab03\BlobDetector.cpp(114,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Downloads\TGMT\19127044_Lab03\19127044_Lab03\BlobDetector.cpp(136,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\TGMT\19127044_Lab03\19127044_Lab03\BlobDetector.cpp(169,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  19127044_Lab03.vcxproj -> D:\Downloads\TGMT\19127044_Lab03\x64\Debug\19127044_Lab03.exe
